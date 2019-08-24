@@ -1,0 +1,1512 @@
+[29-Mar-2019 10:17:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Home.php:12
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(23): Home->__construct()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Home.php on line 12
+[29-Mar-2019 10:17:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Home.php:12
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(23): Home->__construct()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Home.php on line 12
+[29-Mar-2019 10:19:49 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[29-Mar-2019 10:19:49 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[29-Mar-2019 10:20:13 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[29-Mar-2019 10:20:13 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[29-Mar-2019 10:20:57 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[29-Mar-2019 10:20:57 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[29-Mar-2019 10:21:13 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[29-Mar-2019 10:21:13 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[29-Mar-2019 10:48:06 Asia/Jakarta] PHP Warning:  require_once(../app/models/siswa_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 10:48:06 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/siswa_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 10:49:20 Asia/Jakarta] PHP Warning:  require_once(../app/models/siswa_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 10:49:20 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/siswa_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 10:49:36 Asia/Jakarta] PHP Warning:  require_once(../app/models/siswa_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 10:49:36 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/siswa_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 10:51:39 Asia/Jakarta] PHP Warning:  require_once(../app/models/Guru_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 10:51:39 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Guru_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 11:06:22 Asia/Jakarta] PHP Warning:  require_once(../app/models/Guru_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 11:06:22 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Guru_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 11:41:48 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 11:41:48 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[29-Mar-2019 15:13:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function createUser() in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php:55
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(39): Datamaster->addSiswa()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php on line 55
+[29-Mar-2019 15:16:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function createUser() in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php:55
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(39): Datamaster->addSiswa()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php on line 55
+[29-Mar-2019 15:19:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function createUser() in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php:55
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(39): Datamaster->addSiswa()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php on line 55
+[29-Mar-2019 16:07:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function createUser() in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php:56
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(39): Datamaster->addSiswa()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php on line 56
+[29-Mar-2019 16:09:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function createUser() in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php:56
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(39): Datamaster->addSiswa()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php on line 56
+[29-Mar-2019 16:12:46 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php(76): Database->execute()
+#2 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#3 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(39): Datamaster->addSiswa()
+#4 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php on line 59
+[29-Mar-2019 16:14:56 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php(75): Database->execute()
+#2 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#3 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->addSiswa()
+#4 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php on line 59
+[29-Mar-2019 16:33:58 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php(76): Database->execute()
+#2 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#3 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->addSiswa()
+#4 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php on line 59
+[29-Mar-2019 16:34:04 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php(76): Database->execute()
+#2 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#3 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->addSiswa()
+#4 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php on line 59
+[29-Mar-2019 16:48:36 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function siswa_model::createUser(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php on line 55 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php:63
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php(55): siswa_model->createUser()
+#1 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#2 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->addSiswa()
+#3 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#4 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php on line 63
+[29-Mar-2019 20:29:06 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'password' cannot be null in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php(86): Database->execute()
+#2 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#3 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->addSiswa()
+#4 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php on line 59
+[29-Mar-2019 20:29:40 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/web-monitoring/app/models/siswa_model.php(86): Database->execute()
+#2 /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php(37): siswa_model->tambahDataSiswa(Array)
+#3 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->addSiswa()
+#4 /home/mtwn8499/public_html/web-monitoring/public/index.php(8): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php on line 59
+[30-Mar-2019 14:45:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 57
+[30-Mar-2019 14:45:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 57
+[30-Mar-2019 14:46:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:46:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:46:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:46:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:46:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:47:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:47:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:47:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:48:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 56
+[30-Mar-2019 14:49:17 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:49:17 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:49:48 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:49:48 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:49:54 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:49:54 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:52:41 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:52:41 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:52:55 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:52:55 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:00 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:00 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:26 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:26 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:27 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:27 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:48 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:48 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:56 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:53:56 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:54:28 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:54:28 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[30-Mar-2019 14:59:20 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:00:15 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:00:32 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:00:42 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:04:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/mtwn8499/public_html/web-monitoring/app/views/auth/index.php on line 38
+[30-Mar-2019 15:04:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/mtwn8499/public_html/web-monitoring/app/views/auth/index.php on line 38
+[30-Mar-2019 15:04:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/mtwn8499/public_html/web-monitoring/app/views/auth/index.php on line 38
+[30-Mar-2019 15:05:11 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:06:20 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:06:24 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:06:33 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:07:17 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:09:32 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:10:08 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:14:14 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:15:08 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:18:10 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:18:42 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:22:28 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:22:39 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:23:17 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[30-Mar-2019 15:23:22 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 27
+[31-Mar-2019 14:58:38 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 14:58:55 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 15:04:55 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 15:06:03 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 15:09:12 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 15:12:16 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 15:12:46 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 15:14:00 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 15:14:02 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 15:14:23 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Auth::validate(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 25
+[31-Mar-2019 17:19:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Database::singe() in /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php(28): Auth_model->validateUser(1)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php on line 25
+[31-Mar-2019 17:19:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Database::singe() in /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php(28): Auth_model->validateUser(0)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php on line 25
+[31-Mar-2019 17:20:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Database::singe() in /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php:25
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php(28): Auth_model->validateUser(1)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php on line 25
+[31-Mar-2019 17:29:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth_model::model() in /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php:27
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php(28): Auth_model->validateUser(Array)
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php on line 27
+[31-Mar-2019 17:36:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth_model::Auth_model() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:30
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 30
+[31-Mar-2019 17:37:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth_model::Auth_model() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php:30
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 30
+[31-Mar-2019 17:47:36 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Controller::model(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 30 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php:7
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php(30): Controller->model()
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 7
+[31-Mar-2019 17:48:39 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Controller::model(), 0 passed in /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php on line 30 and exactly 1 expected in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php:7
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/controllers/Auth.php(30): Controller->model()
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Auth->validate()
+#2 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#3 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 7
+[31-Mar-2019 20:45:35 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:45:35 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:06 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:06 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:12 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:12 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:13 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:13 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:16 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:16 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:49 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:46:49 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:47:41 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:47:41 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:48:02 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:48:02 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:48:23 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:48:23 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:49:47 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:49:47 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:52:55 Asia/Jakarta] PHP Warning:  require_once(../app/views/Auth/index.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 20:52:55 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Auth/index.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[31-Mar-2019 21:55:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'dropdown' (T_STRING), expecting ',' or ';' in /home/mtwn8499/public_html/web-monitoring/app/views/templates/header.php on line 169
+[31-Mar-2019 21:55:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'dropdown' (T_STRING), expecting ',' or ';' in /home/mtwn8499/public_html/web-monitoring/app/views/templates/header.php on line 169
+[31-Mar-2019 21:55:53 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Profil::index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 18
+[31-Mar-2019 21:57:13 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Profil::index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 18
+[31-Mar-2019 21:57:23 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Profil::index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 18
+[31-Mar-2019 21:58:13 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Profil::index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 18
+[31-Mar-2019 21:59:00 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Profil::index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 18
+[31-Mar-2019 21:59:23 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Profil::index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 18
+[31-Mar-2019 22:01:23 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Profil::index() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 18
+[31-Mar-2019 22:10:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/web-monitoring/app/views/profil/index.php on line 74
+[31-Mar-2019 22:11:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/web-monitoring/app/views/profil/index.php on line 41
+[31-Mar-2019 22:15:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/web-monitoring/app/views/profil/index.php on line 41
+[31-Mar-2019 23:42:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth_model::editProfil() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php:21
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Profil->editProfil()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 21
+[01-Apr-2019 01:34:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth_model::ubahPassword() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Profil->ubahPassword()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 45
+[01-Apr-2019 01:34:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth_model::ubahPassword() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Profil->ubahPassword()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 45
+[01-Apr-2019 01:35:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth_model::ubahPassword() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Profil->ubahPassword()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php on line 45
+[03-Apr-2019 08:41:56 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/web-monitoring/app/models/Auth_model.php(56): Database->execute()
+#2 /home/mtwn8499/public_html/web-monitoring/app/controllers/Profil.php(45): Auth_model->ubahPassword(Array)
+#3 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Profil->ubahPassword()
+#4 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php on line 59
+[03-Apr-2019 10:41:56 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:41:56 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:46:14 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:46:14 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:47:20 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mtwn8499_db_one.mahasiswa' doesn't exist in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/web-monitoring/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/web-monitoring/app/models/Mahasiswa_model.php(14): Database->resultSet()
+#3 /home/mtwn8499/public_html/web-monitoring/app/controllers/Mahasiswa.php(6): Mahasiswa_model->getAllMahasiswa()
+#4 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Mahasiswa->index()
+#5 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/core/Database.php on line 59
+[03-Apr-2019 10:47:41 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:47:41 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:47:43 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:47:43 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:51:29 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:51:29 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:55:46 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:55:46 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:56:10 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:56:10 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:57:55 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 10:57:55 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 11:33:44 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 11:33:44 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 11:46:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function hapusDataTahun() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php:317
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->hapusTahun('6')
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php on line 317
+[03-Apr-2019 11:52:09 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 11:52:09 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 11:54:16 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 11:54:16 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:00:06 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:00:06 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:00:19 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:00:19 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:00:22 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:00:22 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:01:31 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:01:31 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:01:35 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:01:35 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:03:11 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:03:11 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:03:37 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:03:37 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:04:35 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:04:35 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:04:43 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:04:43 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:06:27 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:06:27 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:07:59 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:07:59 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:08:27 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:08:27 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:17:37 Asia/Jakarta] PHP Warning:  require_once(../app/models/Guru_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:17:37 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Guru_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:21:43 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:21:43 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:42:15 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:42:15 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:43:52 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:43:52 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:47:13 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:47:13 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:48:56 Asia/Jakarta] PHP Warning:  require_once(../app/models/Tahun_Model.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:48:56 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/models/Tahun_Model.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 8
+[03-Apr-2019 12:50:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function hapusDataTahun() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php:319
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->hapusTahun('8')
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php on line 319
+[03-Apr-2019 12:55:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function hapusDataTahun() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php:322
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Datamaster->hapusTahun('5')
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Datamaster.php on line 322
+[04-Apr-2019 08:55:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:23
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 23
+[04-Apr-2019 08:57:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:23
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 23
+[04-Apr-2019 08:59:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:23
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 23
+[04-Apr-2019 08:59:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:23
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 23
+[04-Apr-2019 09:01:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:23
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 23
+[04-Apr-2019 09:01:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:23
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 23
+[04-Apr-2019 09:02:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:23
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 23
+[04-Apr-2019 09:02:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:23
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 23
+[04-Apr-2019 09:05:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method siswa_model::getSiswaByNis() in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php:26
+Stack trace:
+#0 /home/mtwn8499/public_html/web-monitoring/app/core/App.php(36): Progress->index()
+#1 /home/mtwn8499/public_html/web-monitoring/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/web-monitoring/app/controllers/Progress.php on line 26
+[06-Apr-2019 10:52:02 Asia/Jakarta] PHP Warning:  require_once(../app/views/Laporan/cetak_laporan.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[06-Apr-2019 10:52:02 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Laporan/cetak_laporan.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[06-Apr-2019 10:52:18 Asia/Jakarta] PHP Warning:  require_once(../app/views/Laporan/cetak_laporan.php): failed to open stream: No such file or directory in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[06-Apr-2019 10:52:18 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../app/views/Laporan/cetak_laporan.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mtwn8499/public_html/web-monitoring/app/core/Controller.php on line 5
+[24-Apr-2019 14:47:20 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mtwn8499_three.transaksi' doesn't exist in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(42): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(19): TransaksiModel->getTransaksi()
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->index()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 14:50:29 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mtwn8499_three.transaksi' doesn't exist in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(42): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(19): TransaksiModel->getTransaksi()
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->index()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 14:51:53 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mtwn8499_three.transaksi' doesn't exist in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(42): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(19): TransaksiModel->getTransaksi()
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->index()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 14:55:46 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mtwn8499_three.pelanggan' doesn't exist in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(42): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(19): TransaksiModel->getTransaksi()
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->index()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 16:13:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 18
+[24-Apr-2019 16:13:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 18
+[24-Apr-2019 16:18:49 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::subitem(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:53
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 53
+[24-Apr-2019 16:19:59 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::subitem(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:53
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 53
+[24-Apr-2019 16:20:11 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::subitem(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:53
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 53
+[24-Apr-2019 16:20:32 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::subitem(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:53
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 53
+[24-Apr-2019 16:21:21 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::subitem(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:53
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 53
+[24-Apr-2019 16:27:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByJenis() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 45
+[24-Apr-2019 16:27:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByJenis() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('2')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 45
+[24-Apr-2019 16:28:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByJenis() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 45
+[24-Apr-2019 16:29:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByJenis() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 45
+[24-Apr-2019 16:29:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByJenis() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 45
+[24-Apr-2019 16:29:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByJenis() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 45
+[24-Apr-2019 16:29:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByJenis() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 45
+[24-Apr-2019 16:29:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByJenis() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:45
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('2')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 45
+[24-Apr-2019 16:31:37 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::subitem(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:53
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 53
+[24-Apr-2019 16:31:44 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::subitem(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:53
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 53
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:32:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:32:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:32:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:32:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:33:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:33:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:33:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:35:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:35:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:36:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:36:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:36:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:36:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:37:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:37:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:37:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:37:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:37:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:37:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:37:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:37:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:37:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:37:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:37:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:37:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:40:17 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:40:17 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:40:17 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:40:17 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:41:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:41:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:41:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:41:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:41:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:41:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:41:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:41:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:41:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:41:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:41:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:41:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:41:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:41:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:41:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:42:10 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::subitem(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:53
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 53
+[24-Apr-2019 16:42:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:42:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:42:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:42:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:42:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:42:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:42:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:42:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:42:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:43:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:43:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:43:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:43:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:43:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:43:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:43:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:43:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:43:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:44:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:44:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'home' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 98
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'transaksi' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 103
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'income' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 108
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 131
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'users' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 136
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/views/layout/header.php on line 156
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:44:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/subitem.php on line 26
+[24-Apr-2019 16:45:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:45:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:45:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:45:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:45:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:45:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:45:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:45:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:46:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:46:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:46:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:46:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:46:50 Asia/Jakarta] PHP Warning:  Illegal string offset 'title' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 55
+[24-Apr-2019 16:46:50 Asia/Jakarta] PHP Warning:  Illegal string offset 'setting' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 56
+[24-Apr-2019 16:46:50 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 16:46:50 Asia/Jakarta] PHP Warning:  Illegal string offset 'subitem' in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 16:49:57 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 16:49:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 16:50:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 16:50:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 16:54:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 16:54:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 16:54:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 16:55:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 17:06:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 17:12:38 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Arsitektur' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(37): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->getSubItemByTitle('Arsitektur')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Arsitektur')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:12:42 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Arsitek' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(37): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->getSubItemByTitle('Arsitek')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Arsitek')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:12:44 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sipil' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(37): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->getSubItemByTitle('Sipil')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Sipil')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:14:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/mtwn8499/public_html/client/app/models/SubitemModel.php on line 27
+[24-Apr-2019 17:14:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/mtwn8499/public_html/client/app/models/SubitemModel.php on line 27
+[24-Apr-2019 17:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(29): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(45): SubitemModel->getSubItemByJenis('1')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:15:58 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(29): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(45): SubitemModel->getSubItemByJenis('1')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:17:04 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(31): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(45): SubitemModel->getSubItemByJenis('1')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:17:09 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(31): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(45): SubitemModel->getSubItemByJenis('1')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item('1')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:18:26 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Arsitek' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(39): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->getSubItemByTitle('Arsitek')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Arsitek')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:18:54 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Arsitek' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(39): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->getSubItemByTitle('Arsitek')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Arsitek')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:18:59 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Arsitek' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(39): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->getSubItemByTitle('Arsitek')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Arsitek')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:19:01 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Arsitek' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(39): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->getSubItemByTitle('Arsitek')
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Arsitek')
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 17:20:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 17:20:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 17:20:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 17:20:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/item.php on line 16
+[24-Apr-2019 17:28:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByIdForTitle() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Arsitek')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 17:28:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::getSubItemByIdForTitle() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->subitem('Arsitek')
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 59
+[24-Apr-2019 17:40:25 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::item(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:41
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->item()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 41
+[24-Apr-2019 18:00:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method SubitemModel::addData() in /home/mtwn8499/public_html/client/app/controllers/Setting.php:57
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->addItem()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 57
+[24-Apr-2019 18:01:24 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(63): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->tambahDataItem(Array)
+#3 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->addItem()
+#4 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 18:03:02 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(63): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->tambahDataItem(Array)
+#3 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->addItem()
+#4 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 18:03:55 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(63): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->tambahDataItem(Array)
+#3 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->addItem()
+#4 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 18:04:46 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(62): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->tambahDataItem(Array)
+#3 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->addItem()
+#4 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[24-Apr-2019 18:07:54 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/models/SubitemModel.php(58): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/controllers/Setting.php(57): SubitemModel->tambahDataItem(Array)
+#3 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->addItem()
+#4 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[25-Apr-2019 21:45:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 41
+[25-Apr-2019 21:53:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 41
+[25-Apr-2019 21:53:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 41
+[25-Apr-2019 21:54:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 41
+[25-Apr-2019 21:55:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 40
+[25-Apr-2019 21:56:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 22
+[25-Apr-2019 21:56:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 72
+[25-Apr-2019 22:11:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 72
+[25-Apr-2019 22:11:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 72
+[25-Apr-2019 22:13:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 72
+[25-Apr-2019 22:18:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 72
+[25-Apr-2019 22:19:51 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::detailTingkat(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:128
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->detailTingkat()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 128
+[25-Apr-2019 22:19:58 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::detailTingkat(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:128
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->detailTingkat()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 128
+[25-Apr-2019 22:20:57 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Setting::detailTingkat(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Setting.php:128
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Setting->detailTingkat()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Setting.php on line 128
+[25-Apr-2019 22:21:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 72
+[25-Apr-2019 22:22:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 72
+[25-Apr-2019 22:30:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 30
+[25-Apr-2019 22:30:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 30
+[25-Apr-2019 22:30:47 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/setting/detail-tingkat.php on line 30
+[26-Apr-2019 07:23:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/income/index.php on line 27
+[26-Apr-2019 08:45:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/users/index.php on line 25
+[26-Apr-2019 08:45:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/users/index.php on line 32
+[26-Apr-2019 08:45:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/users/index.php on line 25
+[26-Apr-2019 08:45:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/users/index.php on line 32
+[26-Apr-2019 08:45:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/users/index.php on line 25
+[26-Apr-2019 08:45:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mtwn8499/public_html/client/app/views/users/index.php on line 32
+[26-Apr-2019 09:07:37 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 59
+[26-Apr-2019 09:07:38 Asia/Jakarta] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Auth' does not have a method 'index' in /home/mtwn8499/public_html/client/app/core/App.php on line 36
+[26-Apr-2019 09:09:01 Asia/Jakarta] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Auth' does not have a method 'index' in /home/mtwn8499/public_html/client/app/core/App.php on line 36
+[26-Apr-2019 09:09:57 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 48
+[26-Apr-2019 09:10:06 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 48
+[26-Apr-2019 09:12:12 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 42
+[26-Apr-2019 09:12:25 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 42
+[26-Apr-2019 09:12:32 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 36
+[26-Apr-2019 09:12:33 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:33 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:33 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:33 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:34 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:34 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:34 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:35 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:35 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:35 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:35 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:36 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:36 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:36 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:36 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:12:37 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:14 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:14 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:15 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:15 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:15 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:15 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:16 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:16 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:17 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:17 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:17 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:17 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:17 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:18 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:18 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:18 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:13:19 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 14
+[26-Apr-2019 09:14:03 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 59
+[26-Apr-2019 09:23:16 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Users::profil(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Users.php:28
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Users->profil()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 28
+[26-Apr-2019 09:23:21 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Users::profil(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Users.php:28
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Users->profil()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 28
+[26-Apr-2019 09:23:28 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Users::profil(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Users.php:28
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Users->profil()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 28
+[26-Apr-2019 09:24:22 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Users::profil(), 0 passed in /home/mtwn8499/public_html/client/app/core/App.php on line 36 and exactly 1 expected in /home/mtwn8499/public_html/client/app/controllers/Users.php:28
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/App.php(36): Users->profil()
+#1 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#2 {main}
+  thrown in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 28
+[26-Apr-2019 10:27:59 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 88
+[26-Apr-2019 10:29:32 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 88
+[26-Apr-2019 10:30:36 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 82
+[26-Apr-2019 10:31:15 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 78
+[26-Apr-2019 10:33:21 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 10:35:27 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 10:35:52 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Users.php on line 78
+[26-Apr-2019 10:35:56 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 10:38:20 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 10:38:42 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 10:51:37 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 10:52:17 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 10:52:46 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 10:58:13 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 11:06:16 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''', CURRENT_TIMESTAMP, Kamaludin, )' at line 1 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(127): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(75): TransaksiModel->updateInvoice(Array)
+#3 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->invoice()
+#4 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[26-Apr-2019 11:12:06 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::query(), 0 passed in /home/mtwn8499/public_html/client/app/models/TransaksiModel.php on line 122 and exactly 1 expected in /home/mtwn8499/public_html/client/app/core/Database.php:30
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(122): Database->query()
+#1 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(75): TransaksiModel->updateInvoice(Array)
+#2 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->invoice()
+#3 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#4 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 30
+[26-Apr-2019 11:15:43 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::query(), 0 passed in /home/mtwn8499/public_html/client/app/models/TransaksiModel.php on line 122 and exactly 1 expected in /home/mtwn8499/public_html/client/app/core/Database.php:30
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(122): Database->query()
+#1 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(75): TransaksiModel->updateInvoice(Array)
+#2 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->invoice()
+#3 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#4 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 30
+[26-Apr-2019 11:16:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$namauser' (T_VARIABLE) in /home/mtwn8499/public_html/client/app/models/TransaksiModel.php on line 119
+[26-Apr-2019 11:16:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$namauser' (T_VARIABLE) in /home/mtwn8499/public_html/client/app/models/TransaksiModel.php on line 119
+[26-Apr-2019 11:16:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$namauser' (T_VARIABLE) in /home/mtwn8499/public_html/client/app/models/TransaksiModel.php on line 119
+[26-Apr-2019 11:18:05 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::query(), 0 passed in /home/mtwn8499/public_html/client/app/models/TransaksiModel.php on line 122 and exactly 1 expected in /home/mtwn8499/public_html/client/app/core/Database.php:30
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(122): Database->query()
+#1 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(75): TransaksiModel->updateInvoice(Array)
+#2 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->invoice()
+#3 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#4 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 30
+[26-Apr-2019 11:18:34 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::query(), 0 passed in /home/mtwn8499/public_html/client/app/models/TransaksiModel.php on line 122 and exactly 1 expected in /home/mtwn8499/public_html/client/app/core/Database.php:30
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(122): Database->query()
+#1 /home/mtwn8499/public_html/client/app/controllers/Transaksi.php(75): TransaksiModel->updateInvoice(Array)
+#2 /home/mtwn8499/public_html/client/app/core/App.php(36): Transaksi->invoice()
+#3 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#4 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 30
+[26-Apr-2019 11:27:30 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 11:36:07 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 11:46:29 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 11:47:19 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 14:02:55 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 14:44:38 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 14:48:00 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 14:50:54 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 22:36:27 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[26-Apr-2019 23:25:00 Asia/Jakarta] PHP Warning:  implode(): Argument must be an array in /home/mtwn8499/public_html/client/app/models/OutcomeModel.php on line 36
+[26-Apr-2019 23:25:00 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'price' cannot be null in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/models/OutcomeModel.php(42): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/controllers/Outcome.php(62): OutcomeModel->tambahDataPengeluaran(Array)
+#3 /home/mtwn8499/public_html/client/app/core/App.php(36): Outcome->addPengeluaran()
+#4 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[26-Apr-2019 23:32:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function number_formart() in /home/mtwn8499/public_html/client/app/views/outcome/index.php:31
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Controller.php(5): require_once()
+#1 /home/mtwn8499/public_html/client/app/controllers/Outcome.php(28): Controller->view(Array, Array)
+#2 /home/mtwn8499/public_html/client/app/core/App.php(36): Outcome->index()
+#3 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#4 {main}
+  thrown in /home/mtwn8499/public_html/client/app/views/outcome/index.php on line 31
+[27-Apr-2019 22:40:44 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[27-Apr-2019 23:01:52 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '!= $id' at line 1 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/UsersModel.php(17): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Users.php(19): UsersModel->getUsers()
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Users->index()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[27-Apr-2019 23:02:05 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '!= $id' at line 1 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/UsersModel.php(17): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Users.php(19): UsersModel->getUsers()
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Users->index()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[27-Apr-2019 23:02:36 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$id' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/UsersModel.php(17): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Users.php(19): UsersModel->getUsers()
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Users->index()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[27-Apr-2019 23:02:40 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$id' in 'where clause' in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/UsersModel.php(17): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Users.php(19): UsersModel->getUsers()
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Users->index()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[28-Apr-2019 17:47:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:48:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:48:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:49:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:49:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:49:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:49:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:49:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:49:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:50:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 17:50:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Marketing' not found in /home/mtwn8499/public_html/client/app/core/App.php:20
+Stack trace:
+#0 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#1 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/App.php on line 20
+[28-Apr-2019 23:55:59 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE transaksi.createData BETWEEN '2019-03-01' AND '2019-05-31'
+        
+      ' at line 30 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(200): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Income.php(50): TransaksiModel->getTransaksiByMonth(Array)
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Income->bulan()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[28-Apr-2019 23:56:14 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE transaksi.createData BETWEEN '2019-03-01' AND '2019-05-31'
+        
+      ' at line 30 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/TransaksiModel.php(200): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Income.php(50): TransaksiModel->getTransaksiByMonth(Array)
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Income->bulan()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[29-Apr-2019 01:50:19 Asia/Jakarta] PHP Warning:  Use of undefined constant BASEURL - assumed 'BASEURL' (this will throw an Error in a future version of PHP) in /home/mtwn8499/public_html/client/app/controllers/Auth.php on line 58
+[29-Apr-2019 02:29:30 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY transaksi.id DESC' at line 31 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/MarketingModel.php(115): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Marketing.php(121): MarketingModel->getTransaksiIncome(Array)
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Marketing->search()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[29-Apr-2019 02:29:38 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY transaksi.id DESC' at line 31 in /home/mtwn8499/public_html/client/app/core/Database.php:59
+Stack trace:
+#0 /home/mtwn8499/public_html/client/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/mtwn8499/public_html/client/app/core/Database.php(64): Database->execute()
+#2 /home/mtwn8499/public_html/client/app/models/MarketingModel.php(115): Database->resultSet()
+#3 /home/mtwn8499/public_html/client/app/controllers/Marketing.php(121): MarketingModel->getTransaksiIncome(Array)
+#4 /home/mtwn8499/public_html/client/app/core/App.php(36): Marketing->search()
+#5 /home/mtwn8499/public_html/client/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/mtwn8499/public_html/client/app/core/Database.php on line 59
+[29-Apr-2019 23:20:42 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'marketing' cannot be null in /home/dpdy5731/public_html/keuangan/app/core/Database.php:59
+Stack trace:
+#0 /home/dpdy5731/public_html/keuangan/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/dpdy5731/public_html/keuangan/app/models/TransaksiModel.php(142): Database->execute()
+#2 /home/dpdy5731/public_html/keuangan/app/controllers/Transaksi.php(63): TransaksiModel->tambahDataTransaksi(Array)
+#3 /home/dpdy5731/public_html/keuangan/app/core/App.php(36): Transaksi->addTransaksi()
+#4 /home/dpdy5731/public_html/keuangan/public/index.php(6): App->__construct()
+#5 {main}
+  thrown in /home/dpdy5731/public_html/keuangan/app/core/Database.php on line 59
+[02-May-2019 19:34:19 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/dpdy5731/public_html/keuangan/app/views/income/detail.php on line 53
+[02-May-2019 20:01:30 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/dpdy5731/public_html/keuangan/app/views/income/detail.php on line 53
+[04-May-2019 00:06:18 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BY id DESC' at line 1 in /home/dpdy5731/public_html/keuangan/app/core/Database.php:59
+Stack trace:
+#0 /home/dpdy5731/public_html/keuangan/app/core/Database.php(59): PDOStatement->execute()
+#1 /home/dpdy5731/public_html/keuangan/app/core/Database.php(64): Database->execute()
+#2 /home/dpdy5731/public_html/keuangan/app/models/OutcomeModel.php(15): Database->resultSet()
+#3 /home/dpdy5731/public_html/keuangan/app/controllers/Outcome.php(25): OutcomeModel->getOutcome()
+#4 /home/dpdy5731/public_html/keuangan/app/core/App.php(36): Outcome->index()
+#5 /home/dpdy5731/public_html/keuangan/public/index.php(6): App->__construct()
+#6 {main}
+  thrown in /home/dpdy5731/public_html/keuangan/app/core/Database.php on line 59
+[04-May-2019 22:55:59 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 101
+[04-May-2019 22:55:59 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 106
+[04-May-2019 22:55:59 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 112
+[04-May-2019 22:55:59 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 117
+[04-May-2019 22:56:04 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 101
+[04-May-2019 22:56:04 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 106
+[04-May-2019 22:56:04 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 112
+[04-May-2019 22:56:04 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 117
+[04-May-2019 22:56:21 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 106
+[04-May-2019 22:56:21 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 112
+[04-May-2019 22:56:21 Asia/Jakarta] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/dpdy5731/public_html/keuangan/app/views/layout/header.php on line 117
